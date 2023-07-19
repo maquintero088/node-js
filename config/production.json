@@ -1,0 +1,8 @@
+{
+    "nombre": "ApiRestService.1 - Production",
+    "ENVIRONMENT": {
+        "LOG_LEVEL": false,
+        "RESOURCE_PATH": "resources/public",
+        "PORT":3000
+    }
+}
