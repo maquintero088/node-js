@@ -1,7 +1,7 @@
 {
   "name": "npm-demo",
   "version": "1.0.0",
-  "description": "Demo Project for Udemy -> Node: NPM ",
+  "description": "Demo Project for Udemy -> Node: NPM [^|~| ]A.B.C : C= Parches, Ajustes. B= Nuevas funciones, Mejoras. A= Compatibilidad y Restructuración. ^= Compatible entre versiones ~= Acepta Mejoras",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,6 +10,9 @@
   "license": "ISC",
   "dependencies": {
     "jsonwebtoken": "^8.5.1",
-    "mongoose": "^6.3.2"
+    "whatsapp-web.js": "^1.16.6"
+  },
+  "devDependencies": {
+    "jshint": "^2.13.4"
   }
 }
